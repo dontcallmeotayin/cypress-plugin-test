@@ -1,0 +1,27 @@
+{
+  "name": "cypress-plugin-yin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "src",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dontcallmeotayin/cypress-plugin-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dontcallmeotayin/cypress-plugin-test/issues"
+  },
+  "homepage": "https://github.com/dontcallmeotayin/cypress-plugin-test#readme",
+  "devDependencies": {
+    "cypress": "^14.0.2"
+  },
+  "dependencies": {
+    "mysql2": "^3.12.0"
+  }
+}
